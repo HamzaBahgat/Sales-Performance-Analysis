@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis
+# Retail-Performance-Analysis
 Objective: Apply the full data analysis pipeline using a real-world sales dataset. They will analyze trends in sales performance across time, products, and regions. The final output should help a fictional company understand what drives its sales, which areas/products are underperforming, and how to improve.
 This project is a complete end-to-end data analysis initiative focused on understanding the sales drivers for a hypothetical company. The process involved collecting data from Kaggle, performing comprehensive cleaning and analysis, and ultimately creating actionable insights to improve business strategy.
 
